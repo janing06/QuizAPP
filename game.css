@@ -17,7 +17,7 @@ body{
 }
 .app h1{
     font-size: 25px;
-    color: #001e4d;
+    color: #035faf;
     font-weight: 600;
     border-bottom: 1px solid #333;
     padding-bottom: 30px;
@@ -27,7 +27,7 @@ body{
 }
 .quiz h2{
     font-size: 18px;
-    color: #001e4d;
+    color: #3496eb;
     font-weight: 600;
 }
 .btn{
@@ -35,16 +35,16 @@ body{
     color: #222;
     font-weight: 500;
     width: 100%;
-    border: 1px solid #222;
-    padding: 10px;
+    border: 1px solid #a8a8a8;
+    padding: 15px;
     margin: 10px 0;
     text-align: left;
-    border-radius: 4px;
+    border-radius: 25px;
     cursor: pointer;
     transition: all 0.3s;
 }
 .btn:hover:not([disabled]){
-    background-color: #222;
+    background-color: #89ddf0;
     color: #fff;
 }
 .btn:disabled{

@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: '1 + 1',
+        question: 'What is 1 + 1',
         answers: [
             { text: '1', correct: false},
             { text: '2', correct: true},
@@ -9,7 +9,7 @@ const questions = [
         ]
     },
     {
-        question: '1 + 5',
+        question: 'What is 1 + 5',
         answers: [
             { text: '10', correct: false},
             { text: '2', correct: false},
@@ -18,7 +18,7 @@ const questions = [
         ]
     },
     {
-        question: '5 + 5',
+        question: 'What is 5 + 5',
         answers: [
             { text: '10', correct: true},
             { text: '7', correct: false},
@@ -27,7 +27,7 @@ const questions = [
         ]
     },
     {
-        question: '6 + 7',
+        question: 'What is 6 + 7',
         answers: [
             { text: '11', correct: false},
             { text: '12', correct: false},
@@ -36,7 +36,7 @@ const questions = [
         ]
     },
     {
-        question: '6 + 6',
+        question: 'What is 6 + 6',
         answers: [
             { text: '10', correct: false},
             { text: '12', correct: true},
